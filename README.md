@@ -1,6 +1,6 @@
 # Projetos de Sistemas Embarcados - EmbarcaTech 2025
 
-Autor: **Davi Henrique Vieira Lima**
+Autor: **Davi Henrique Vieira Lima e José Augusto Alves de Moraes**
 
 Curso: Residência Tecnológica em Sistemas Embarcados
 
